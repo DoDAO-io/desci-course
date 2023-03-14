@@ -5,8 +5,7 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
 
 ## Introduction
  
-Smart contract auditing is the process of reviewing and testing the source code of a smart contract to identify any potential vulnerabilities or security issues. This can include checking for errors in the code, evaluating the contract's overall design and architecture, and testing the contract's functionality to ensure that it performs as intended. The goal of a smart contract audit is to ensure that the contract is secure and reliable, and that it will function as intended when deployed on a blockchain network.
-
+DeSci is a movement creating public infrastructure for scientific knowledge through the Web3 stack.  It aims to incentivize scientists to share and receive credit for their work, while promoting transparency and accessibility to all. This decentralized approach allows for diverse funding sources, accessible data and methods, and incentives for reproducibility. It creates a more resistant research model to central authorities and promotes unconventional ideas.
 
 
 ## Links
