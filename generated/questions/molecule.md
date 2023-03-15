@@ -24,12 +24,12 @@ Sub Topics: No Sub-Topics
 
 ---
 
-##### How can IP-NFTs be divided?  
+##### Can IP-NFTs be fractionalized?  
 
-- [ ]  They cannot be divided
-- [x]  They can be divided into smaller fractions
-- [ ]  They can only be divided into two parts
-- [ ]  They can be divided into fractions but cannot be distributed for ownership.
+- [ ]  No, They cannot be divided
+- [x]  Yes, They can be divided into smaller fractions
+- [ ]  Yes, but they can only be divided into two parts
+- [ ]  Yes, They can be divided into fractions but cannot be distributed for ownership.
   
 Hint: NoHint
          
@@ -40,16 +40,16 @@ Sub Topics: No Sub-Topics
 
 ---
 
-##### What is the significant risk associated with traditional IP?  
+##### Which of the following options about Traditional IP markets are correct?  
 
-- [ ]  Web3 experimentation
-- [x]  Dispute over control
-- [ ]  Liability from economic experimentation
-- [ ]  Poor choices about when or whether to file a patent
+- [x]  Traditional IP markets are illiquid
+- [ ]  Traditional IP markets have high liquidity
+- [x]  Traditional IP markets are inefficient
+- [ ]  Traditional IP markets are efficient
   
 Hint: NoHint
          
-Explanation: One significant risk associated with traditional IP is the possibility of a dispute over control, both due to inadequate default IP laws and jurisdictional conflicts.
+Explanation: Traditional IP markets are illiquid, opaque, and inefficient.
 
 Sub Topics: No Sub-Topics
  
@@ -88,16 +88,16 @@ Sub Topics: No Sub-Topics
 
 ---
 
-##### Which of the following is NOT a way to create an account on Molecule Discovery?  
+##### Which of the following statements are correct about Molecule DAO?  
 
-- [ ]  Email account creation
-- [ ]  Metamask account creation
-- [x]  Google account creation
-- [ ]  Both A and B are ways to create an account on Molecule Discovery
+- [ ]  Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research
+- [ ]  Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives
+- [ ]  Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership
+- [x]  All of the above
   
 Hint: NoHint
          
-Explanation: There are two ways to create accounts on Molecule Discovery - Email account creation and Metamask account creation.
+Explanation: With a vision to create an open marketplace that connects patients directly with researchers, Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research. The team behind Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership and financing of these assets in a decentralized manner. Ultimately, Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives.
 
 Sub Topics: No Sub-Topics
  
@@ -107,9 +107,9 @@ Sub Topics: No Sub-Topics
 ##### What is a BioLAO?  
 
 - [x]  A community of BIO enthusiasts and experts who support the work of researchers and builders through advice and capital
-- [ ]  A type of token
-- [ ]  A decentralized autonomous organization
-- [ ]  A type of funding source for biopharma research
+- [ ]  A community of non-BIO enthusiasts
+- [ ]  A community of BIO enthusiasts and experts who do not support the work of researchers and builders
+- [ ]  A community of pharmacuetical companies
   
 Hint: NoHint
          
@@ -120,16 +120,16 @@ Sub Topics: No Sub-Topics
 
 ---
 
-##### Which of the following is not a type of BioDAO?  
+##### What are the benefits of IP-NFTs?  
 
-- [ ]  Investment Syndicates
-- [ ]  Nonprofits and Patient Organizations
-- [x]  Biopharmaceutical Drug Companies
-- [ ]  Service Provider DAOs
+- [ ]  Permissionless peer-to-peer transferability
+- [ ]  Composability with DeFi
+- [ ]  Fractionalization for the distribution of licenses and governance to groups of individuals
+- [x]  All of the above
   
 Hint: NoHint
          
-Explanation: Biopharmaceutical Drug Companies are not a type of BioDAO.
+Explanation: IP-NFTs can be transferred peer-to-peer, integrated with DeFi, and fractionalized to distribute licenses and governance to groups of people.
 
 Sub Topics: No Sub-Topics
  

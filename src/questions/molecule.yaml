@@ -17,37 +17,38 @@
       key: D
 - uuid: 9b6dc680-df4c-4518-bdc2-136831bc73c8
   type: SingleChoice
-  content: How can IP-NFTs be divided?
+  content: Can IP-NFTs be fractionalized?
   hint: NoHint
   explanation: IP-NFTs can be divided into smaller fractions to allow for distributed ownership, licensing, and governance.
   answerKeys:
     - B
   difficultyLevel: Low
   choices:
-    - content: They cannot be divided
+    - content: No, They cannot be divided
       key: A
-    - content: They can be divided into smaller fractions
+    - content: Yes, They can be divided into smaller fractions
       key: B
-    - content: They can only be divided into two parts
+    - content: Yes, but they can only be divided into two parts
       key: C
-    - content: They can be divided into fractions but cannot be distributed for ownership.
+    - content: Yes, They can be divided into fractions but cannot be distributed for ownership.
       key: D
 - uuid: 0f517eb7-fa3c-4386-a239-6150b94bb9eb
-  type: SingleChoice
-  content: What is the significant risk associated with traditional IP?
+  type: MultipleChoice
+  content: Which of the following options about Traditional IP markets are correct?
   hint: NoHint
-  explanation: One significant risk associated with traditional IP is the possibility of a dispute over control, both due to inadequate default IP laws and jurisdictional conflicts.
+  explanation: Traditional IP markets are illiquid, opaque, and inefficient.
   answerKeys:
-    - B
+    - A
+    - C
   difficultyLevel: Low
   choices:
-    - content: Web3 experimentation
+    - content: Traditional IP markets are illiquid
       key: A
-    - content: Dispute over control
+    - content: Traditional IP markets have high liquidity
       key: B
-    - content: Liability from economic experimentation
+    - content: Traditional IP markets are inefficient
       key: C
-    - content: Poor choices about when or whether to file a patent
+    - content: Traditional IP markets are efficient
       key: D
 - uuid: 3fd8e9f4-0d77-4132-8a2e-01961ad563c8
   type: SingleChoice
@@ -85,20 +86,20 @@
       key: D
 - uuid: 6df29c6a-0156-46b2-96fe-93c0835794ac
   type: SingleChoice
-  content: Which of the following is NOT a way to create an account on Molecule Discovery?
+  content: Which of the following statements are correct about Molecule DAO?
   hint: NoHint
-  explanation: There are two ways to create accounts on Molecule Discovery - Email account creation and Metamask account creation.
+  explanation: With a vision to create an open marketplace that connects patients directly with researchers, Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research. The team behind Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership and financing of these assets in a decentralized manner. Ultimately, Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives.
   answerKeys:
-    - C
+    - D
   difficultyLevel: Low
   choices:
-    - content: Email account creation
+    - content: Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research
       key: A
-    - content: Metamask account creation
+    - content: Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives
       key: B
-    - content: Google account creation
+    - content: Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership
       key: C
-    - content: Both A and B are ways to create an account on Molecule Discovery
+    - content: All of the above
       key: D
 - uuid: b9d8de9f-79b5-4c60-ba7c-bc1a4eeec42a
   type: SingleChoice
@@ -111,26 +112,26 @@
   choices:
     - content: A community of BIO enthusiasts and experts who support the work of researchers and builders through advice and capital
       key: A
-    - content: A type of token
+    - content: A community of non-BIO enthusiasts
       key: B
-    - content: A decentralized autonomous organization 
+    - content: A community of BIO enthusiasts and experts who do not support the work of researchers and builders
       key: C
-    - content: A type of funding source for biopharma research
+    - content: A community of pharmacuetical companies
       key: D
 - uuid: e07ea1c6-f41e-4aff-8884-88229298f322
   type: SingleChoice
-  content: Which of the following is not a type of BioDAO?
+  content: What are the benefits of IP-NFTs?
   hint: NoHint
-  explanation: Biopharmaceutical Drug Companies are not a type of BioDAO.
+  explanation: IP-NFTs can be transferred peer-to-peer, integrated with DeFi, and fractionalized to distribute licenses and governance to groups of people.
   answerKeys:
-    - C
+    - D
   difficultyLevel: Low
   choices:
-    - content: Investment Syndicates
+    - content: Permissionless peer-to-peer transferability
       key: A
-    - content: Nonprofits and Patient Organizations
+    - content: Composability with DeFi
       key: B
-    - content: Biopharmaceutical Drug Companies
+    - content: Fractionalization for the distribution of licenses and governance to groups of individuals
       key: C
-    - content: Service Provider DAOs
+    - content: All of the above
       key: D
