@@ -26,16 +26,16 @@
       "order": 0,
       "explanations": [
         {
-          "key": "references",
-          "shortTitle": "References",
-          "details": "- https://ieeexplore.ieee.org/document/9906878\n- https://www.thebrackengroup.com/blog/biotech-daos-desci-and-life-science-web3-concepts\n- https://www.desci.global/\n- ",
-          "title": "References"
-        },
-        {
           "key": "what-is-desci",
           "shortTitle": "What is DeSci",
           "details": "“Decentralized Science (DeSci) is a movement that aims to build public infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge fairly and equitably using the Web3 stack.” – Ethereum.org \n\nhttps://ethereum.org/en/desci/#:~:text=Further%20reading-,What%20is%20decentralized%20science%20(DeSci)%3F,equitably%20using%20the%20Web3%20stack.",
           "title": "What is DeSci?"
+        },
+        {
+          "key": "references",
+          "shortTitle": "References",
+          "details": "- https://ieeexplore.ieee.org/document/9906878\n- https://www.thebrackengroup.com/blog/biotech-daos-desci-and-life-science-web3-concepts\n- https://www.desci.global/\n- ",
+          "title": "References"
         }
       ],
       "questions": [],
