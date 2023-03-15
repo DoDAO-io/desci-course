@@ -24,7 +24,14 @@
       "key": "introduction",
       "details": "Smart contract auditing is the process of reviewing and testing the source code of a smart contract to identify any potential vulnerabilities or security issues. This can include checking for errors in the code, evaluating the contract's overall design and architecture, and testing the contract's functionality to ensure that it performs as intended. The goal of a smart contract audit is to ensure that the contract is secure and reliable, and that it will function as intended when deployed on a blockchain network.\n\n",
       "order": 0,
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "references",
+          "shortTitle": "References",
+          "details": "- https://ieeexplore.ieee.org/document/9906878\n- https://www.thebrackengroup.com/blog/biotech-daos-desci-and-life-science-web3-concepts\n- https://www.desci.global/\n- ",
+          "title": "References"
+        }
+      ],
       "questions": [],
       "readings": [],
       "summaries": []
