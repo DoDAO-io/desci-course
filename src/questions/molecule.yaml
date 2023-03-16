@@ -1,0 +1,137 @@
+- uuid: c032b5b8-19fa-45d6-9d12-92a552214b60
+  type: SingleChoice
+  content: What is the IP-NFT protocol?
+  hint: NoHint
+  explanation: IP-NFT (Intellectual Property - Non-Fungible Token) combines legal and smart contract primitives. This protocol enables the tokenization of intellectual property and research data, allowing for the creation of cryptographic tokens on the Ethereum blockchain. These tokens unify the legal rights, data access, and economics around research projects, allowing for more efficient and transparent management of research funding.
+  answerKeys:
+    - C
+  difficultyLevel: Low
+  choices:
+    - content: A legal contract for funding research projects
+      key: A
+    - content: A marketplace for buying and selling NFTs
+      key: B
+    - content: A protocol for tokenizing intellectual property and research data
+      key: C
+    - content: A program for accelerating the development of decentralized biotech organizations
+      key: D
+- uuid: 9b6dc680-df4c-4518-bdc2-136831bc73c8
+  type: SingleChoice
+  content: Can IP-NFTs be fractionalized?
+  hint: NoHint
+  explanation: IP-NFTs can be divided into smaller fractions to allow for distributed ownership, licensing, and governance.
+  answerKeys:
+    - B
+  difficultyLevel: Low
+  choices:
+    - content: No, They cannot be divided
+      key: A
+    - content: Yes, They can be divided into smaller fractions
+      key: B
+    - content: Yes, but they can only be divided into two parts
+      key: C
+    - content: Yes, They can be divided into fractions but cannot be distributed for ownership.
+      key: D
+- uuid: 0f517eb7-fa3c-4386-a239-6150b94bb9eb
+  type: MultipleChoice
+  content: Which of the following options about Traditional IP markets are correct?
+  hint: NoHint
+  explanation: Traditional IP markets are illiquid, opaque, and inefficient.
+  answerKeys:
+    - A
+    - C
+  difficultyLevel: Low
+  choices:
+    - content: Traditional IP markets are illiquid
+      key: A
+    - content: Traditional IP markets have high liquidity
+      key: B
+    - content: Traditional IP markets are inefficient
+      key: C
+    - content: Traditional IP markets are efficient
+      key: D
+- uuid: 3fd8e9f4-0d77-4132-8a2e-01961ad563c8
+  type: SingleChoice
+  content: What are some of the potential risks associated with using IP-NFTs to commercialize intellectual property assets?
+  hint: NoHint
+  explanation: Exposure of IP to new risks and liability from economic experimentation are some of the potential risks associated with using IP-NFTs to commercialize intellectual property assets.
+  answerKeys:
+    - D
+  difficultyLevel: Low
+  choices:
+    - content: Inadequate default IP laws and jurisdictional conflicts leading to disputes over control
+      key: A
+    - content: Difficulty in determining when and whether to file a patent on IP-NFTs 
+      key: B
+    - content: Limited ability to fractionalize ownership and governance of IP-NFTs
+      key: C
+    - content: Exposure of IP to new risks and liability from economic experimentation
+      key: D
+- uuid: ca6c4de1-1b60-404d-8f46-321176e66c45
+  type: SingleChoice
+  content: What is the primary goal of Molecule Discovery?
+  hint: NoHint
+  explanation: Molecule Discovery is a platform that features various biopharma research projects from across the globe. Researchers present their projects in different therapeutic areas. The platform allows you to sort projects based on clinical stages and opportunity types.
+  answerKeys:
+    - C
+  difficultyLevel: Low
+  choices:
+    - content: To create web3-enabled wallets for biopharma researchers
+      key: A
+    - content: To tokenize intellectual property rights using non-fungible tokens
+      key: B
+    - content: To assist biopharma researchers in finding resources and partners for their research projects in a decentralized manner
+      key: C
+    - content: To educate the community on different therapeutic areas
+      key: D
+- uuid: 6df29c6a-0156-46b2-96fe-93c0835794ac
+  type: SingleChoice
+  content: Which of the following statements are correct about Molecule DAO?
+  hint: NoHint
+  explanation: With a vision to create an open marketplace that connects patients directly with researchers, Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research. The team behind Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership and financing of these assets in a decentralized manner. Ultimately, Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives.
+  answerKeys:
+    - D
+  difficultyLevel: Low
+  choices:
+    - content: Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research
+      key: A
+    - content: Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives
+      key: B
+    - content: Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership
+      key: C
+    - content: All of the above
+      key: D
+- uuid: b9d8de9f-79b5-4c60-ba7c-bc1a4eeec42a
+  type: SingleChoice
+  content: What is a BioLAO?
+  hint: NoHint
+  explanation: A BioLAO is a community of BIO enthusiasts and experts who support the work of researchers and builders through advice and capital.
+  answerKeys:
+    - A
+  difficultyLevel: Low
+  choices:
+    - content: A community of BIO enthusiasts and experts who support the work of researchers and builders through advice and capital
+      key: A
+    - content: A community of non-BIO enthusiasts
+      key: B
+    - content: A community of BIO enthusiasts and experts who do not support the work of researchers and builders
+      key: C
+    - content: A community of pharmacuetical companies
+      key: D
+- uuid: e07ea1c6-f41e-4aff-8884-88229298f322
+  type: SingleChoice
+  content: What are the benefits of IP-NFTs?
+  hint: NoHint
+  explanation: IP-NFTs can be transferred peer-to-peer, integrated with DeFi, and fractionalized to distribute licenses and governance to groups of people.
+  answerKeys:
+    - D
+  difficultyLevel: Low
+  choices:
+    - content: Permissionless peer-to-peer transferability
+      key: A
+    - content: Composability with DeFi
+      key: B
+    - content: Fractionalization for the distribution of licenses and governance to groups of individuals
+      key: C
+    - content: All of the above
+      key: D

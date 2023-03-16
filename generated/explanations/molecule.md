@@ -1,0 +1,66 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## Molecule
+ 
+ **What is Molecule?**        
+Molecule DAO is an ambitious project aimed at revolutionizing the drug development industry. With a vision to create an open marketplace that connects patients directly with researchers, Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research. The team behind Molecule DAO believes that by utilizing a combination of unique digital asset identifiers (NFTs), automatic exchange infrastructure, and governance structures, they can reinvent IP ownership and financing of these assets in a decentralized manner. Ultimately, Molecule DAO hopes to create a new creator economy for researchers that allows for the rapid funding, discovery, and development of therapeutics through globally connected patient collectives. In this introduction, we explore the challenges that the drug development industry currently faces and how Molecule DAO aims to address them.
+
+Molecule operates across three different areas: protocol development, marketplace creation, and BioDAO launchpad.
+
+Firstly, Molecule has created a new protocol called IP-NFT (Intellectual Property - Non-Fungible Token) which combines legal and smart contract primitives. This protocol enables the tokenization of intellectual property and research data, allowing for the creation of cryptographic tokens on the Ethereum blockchain. These tokens unify the legal rights, data access, and economics around research projects, allowing for more efficient and transparent management of research funding.
+
+Secondly, Molecule is building a marketplace on top of the IP-NFT protocol, called Molecule Discovery. The marketplace enables researchers and funders to connect and collaborate on translational research projects. Researchers can propose research ideas, which are evaluated by funders and negotiated on the platform, resulting in funding agreements. The marketplace aims to improve the funding process for research projects by providing a more streamlined and transparent platform for collaboration.
+
+Thirdly, Molecule operates a BioDAO launchpad, which incubates decentralized biotech IP and R&D organizations called BioDAOs. These communities consist of patients, researchers, and enthusiasts who come together to fund research in specific therapeutic areas. The BioDAO launchpad fosters demand and supply for the marketplace by incubating and supporting BioDAOs through an accelerator program. This program helps to create a new class of decentralized biotech organizations that can help to accelerate the development of new therapeutics and treatments.
+ 
+ **IP-NFT**        
+#### What is IP-NFT?
+
+IP-NFT stands for Intellectual Property - Non-Fungible Token. Molecule created the first IP-NFTs for [VitaDAO](https://www.vitadao.com/), which enabled them to register their intellectual property and research and development data rights for their sponsored research in longevity therapeutics. By attaching legal contracts such as sponsored research agreements to smart contracts, IP-NFTs connect IP and R&D data rights to NFTs on the [Ethereum](https://www.ethereum.org/) blockchain. IP-NFTs serve as the [building blocks](https://molecule.to/blog/ip-nfts-for-researchers-a-new-biomedical-funding-paradigm) for decentralized science (DeSci), much like [DeFi legos](https://www.defipulse.com/blog/what-is-defi) for DeSci. They represent a new paradigm in the evolution of legal contracts for scientific research, moving from paper or electronic file folders to smart contracts on the Ethereum blockchain. IP-NFTs can be transferred peer-to-peer, made [composable](https://blog.aragon.org/what-is-composability/) with DeFi, fractionalized to distribute licenses and governance to groups of people. They can also be built upon to unlock new ways to interact with and develop IP, R&D data, and [NIPIA](https://www.aaup.org/sites/default/files/files/IntangibleAssets.pdf) (Non-IP Intangible Assets). 
+
+#### Why mint an IP-NFT?
+
+An IP-NFT can be minted by a research sponsor, biotech company, or researcher to benefit from the attachment of intellectual property (IP) and research and development (R&D) rights to an Ethereum smart contract. As described above, the benefits of IP-NFTs include:
+- Permissionless peer-to-peer transferability as smart contracts on Ethereum - Composability with DeFi - Fractionalization for the distribution of licenses and governance to groups of individuals - Development of new ways to interact with and develop IP, R&D data, and Non-IP Intangible Assets (NIPIA) such as trade secrets and publicity rights - Empowerment of crowd control of ethics in commercialization based on FRAND terms - Unprecedented liquidity in IP markets
+
+In addition, IP-NFTs offer non-dilutive funding opportunities for researchers seeking to sell IP and data rights without having to apply for grants or sell shares of spin-off companies. Once an IP-NFT is minted, the user has attached the specified IP, NIPIA, and R&D data rights to a non-fungible token on Ethereum. These rights transfer with the token when it is transferred, providing ease of transferability and verified ownership of rights through the blockchain.
+Other reasons to mint IP-NFTs include:
+- **Composability with DeFi**: IP-NFTs can be used as building blocks in DeSci and [mixed with other software components like lego bricks](https://twitter.com/cdixon/status/1451703070589587456?s=20&t=GsFYFskx2cmqYnUjL1PGuw). For instance, they can be used as collateral to mint stablecoins in MakerDAO, traded on marketplaces like [OpenSea](https://opensea.io/) and [Gem](https://www.gem.xyz/), or listed in a bespoke IP marketplace like [Molecule Discovery](https://molecule.to/blog/an-open-bazaar-for-drug-development-molecule-protocol). Fractionalization (IP-NFT fractionalization is a technique that allows for the direct distribution of IP-NFT rights to groups of token holders by locking the IP-NFT and generating tokens on Ethereum that represent fractions of the locked IP-NFT) is also possible on platforms like [Fractional.art](http://www.fractional.art/) and the FRENS & FAM legal+smart contract protocol.
+- **Creation of efficiencies in IP licensing**: IP-NFTs provide transparency in IP ownership and valuation, which can make due diligence for licensing deals easier and less costly.
+- **Creation of entirely new IP markets**: Early-stage IP-NFTs can represent rights to future IP arising from a research project, while late-stage IP-NFTs can represent trade secrets and patents on inventions that arise from the project. Licensing terms, ethical conditions, and governance clauses can be encoded into IP-NFTs as license wrappers. This allows for efficient trading of IP rights before pursuing patents and the potential for a Cambrian explosion of novel applications for decentralized IP ownership, governance, and commercialization.
+
+To mint an IP-NFT using Molecule, follow these steps:
+
+- **Request a mintpass**: Minting of IP-NFTs on Molecule is currently in closed beta, so you'll need to request a mintpass to get started. You can request [here](https://airtable.com/shr9QN0tPPeK4GGjA). - **Create and sign a legal agreement**: Two parties must negotiate and sign a legal contract that includes two agreements. The first agreement states the rights of the asset holder and the price paid for the asset, while the second agreement assigns the rights of the buyer within the first agreement to the holder of a certain token of the IP-NFT smart contract. - **Access the minting front-end**: Visit the [minting front-end](https://mint.molecule.to/) and connect your wallet to get started with the process. - **Reserve an IP-NFT**: To enable the encryption of your documents, Molecule reserves a TokenID for your NFT. This TokenID will be used to ensure that only the owner of the TokenID can access the data behind the NFT. - **Describe your IP-NFT**: Add all the information about your IP-NFT, including what kind of agreement will be connected to the IP-NFT and whether the agreement should be stored publicly or privately. All information in this step will be saved in the metadata of the IP-NFT and will be publicly available. - **Attach your signed legal agreement and artwork**: Upload the signed legal agreement from step 2 to the Molecule Platform. This document will be encrypted and stored on a decentralized data storage. Additionally, add artwork to become the memorable image of your IP-NFT. - **Review your IP-NFT data**: Review the data submitted for the IP-NFT. Once ready, continue the process. After submitting your data in this step, the contract will be encrypted and uploaded to the decentralized data storage. The decryption key will be stored with Lit Protocol to manage access control based on the NFT ownership. - **Sign IP-NFT minting transaction**: Your metamask will pop-up and ask you to sign a transaction to mint the IP-NFT. - **View your IP-NFT**: Once the transaction goes through, you will find an IP-NFT in your wallet. Congratulations, you have successfully created an IP-NFT!
+ 
+ **Molecule Discovery**        
+Molecule Discovery is a platform that features various biopharma research projects from across the globe. Researchers present their projects in different therapeutic areas. The platform allows you to sort projects based on clinical stages and opportunity types. Additionally, there is a free text search option available to make it easier to find relevant research projects.
+
+Molecule Discovery offers user accounts that facilitate collaboration on various research projects. Researchers can create and manage their own projects using their accounts, while investors can inquire about projects and whitelist to fund researchers.
+
+Molecule's primary goal is to assist biopharma researchers in finding resources and partners to execute their research projects. One of the most common issues in early-stage biopharma research is the difficulty in acquiring funding and the length of time it takes to secure such funding. This issue can arise due to a variety of factors, such as complex contracts, limited access to funding sources, and challenges in aligning multiple stakeholders.
+
+To address these obstacles, Molecule has developed a unique IP-NFT framework. Our team has created a set of standardized legal agreements that are linked to non-fungible tokens, enabling researchers to receive funding from existing early-stage investors. This approach aims to simplify the funding process and streamline the acquisition of necessary resources for biopharma research.
+ 
+ **Bio DAO**        
+A BioDAO is a type of Decentralized Autonomous Organisation (DAO) that uses decentralised services in the field of decentralised science (DeSci) to shape the future of therapeutic development. DAOs are made up of communities of individuals with diverse backgrounds who jointly allocate resources towards a common goal. When it comes to financial resources, public decentralised ledger technology such as Ethereum is used to enable all parties to collaborate in a trustless manner and democratically decide on how to allocate resources.
+
+One of the key services offered by BioDAOs is the tokenization of intellectual property (IP) rights using non-fungible tokens (NFTs) to create liquid IP-NFTs. These IP-NFTs can be bought, held, managed, and sold by DAOs, allowing them to contribute to the advancement of science.
+
+#### Different Types of BioDAOs
+- **Community & Therapeutic Areas**: DAOs can be created by existing communities or individuals interested in a particular therapeutic area. Examples include VitaDAO and PsyDAO, which actively support research in their respective areas and educate the community through AMAs, Twitter Spaces, and other content.
+- **Nonprofits and Patient Organizations**: Nonprofits and patient organizations can be structured as DAOs to use Web3 fundraising mechanisms for public goods. This allows more people to take an active role in the BIO Ecosystem and support neglected and underfunded research areas. An excellent example is Crowdfunded Cures and To Cure a Rose, which create new value layers in the therapeutic space.
+- **Service Provider DAOs**: With the adoption of the IP-NFT standard and more efforts to conduct research in a decentralized way, we will see more DAOs actively building tools and services for researchers, such as LabDAO and CureDAO.
+- **Investment Syndicates**: DAOs don't have to consist of a large number of contributors; they can start as small as two individuals who collectively want to pool funds and support therapeutic research over our Discovery Platform as a Syndicate.
+- **BioLAOs**: A BioLAO is a community of BIO enthusiasts and experts who support the work of researchers and builders through advice and capital.
+
+#### The BIO DAO Lifecycle
+DAOs go through different stages, from an idea to a fully grown organization. The growth sequence for a BioDAO typically includes specific building blocks. Molecule provides support at each of these stages.
+ 
+ **References**        
+- https://www.molecule.to/ - https://docs.molecule.to/documentation/introduction/readme - https://www.youtube.com/@Molecule_dao/videos
+ 
+ 
