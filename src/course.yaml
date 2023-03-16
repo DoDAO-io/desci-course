@@ -17,6 +17,7 @@ topics:
       It aims to incentivize scientists to share and receive credit for their work, while promoting transparency and accessibility to all.
       This decentralized approach allows for diverse funding sources, accessible data and methods, and incentives for reproducibility.
       It creates a more resistant research model to central authorities and promotes unconventional ideas.
+    explanations: introduction.yaml
   - key: molecule
     title: Molecule
     details: >

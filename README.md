@@ -14,5 +14,5 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  
  | S.No        | Title       | Contents   | Links      | Status      | Completion Week |
  | ----------- | ----------- |----------- |----------- | ----------- | ----------- |
- | 1      | Introduction | | [Details](generated/topics/introduction.md) <br/>  <br/>  <br/>  <br/>  | undefined | undefined |
+ | 1      | Introduction | | [Details](generated/topics/introduction.md) <br/> [Explanations](generated/explanations/introduction.md) <br/>  <br/>  <br/>  | undefined | undefined |
  | 2      | Molecule | | [Details](generated/topics/molecule.md) <br/> [Explanations](generated/explanations/molecule.md) <br/>  <br/>  <br/> [Questions](generated/questions/molecule.md) | undefined | undefined | 
