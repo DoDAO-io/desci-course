@@ -140,7 +140,21 @@
     ## Reputation instead of citation
 
     DeFi and blockchain is currently experimenting with many reputation
-    primitives like badges, soulbound(non-transferrable) tokens etc.
+    primitives like badges, [soulbound
+    tokens](https://vitalik.ca/general/2022/01/26/soulbound.html)(non-transferrable)
+    tokens etc. These reputation primitives can be used to encourage towards
+    multitude of tasks that are needed for continuity of research in a field
+    rather than having the researcher just focus on the number of research
+    papers or citations. Since this reputation lives on blockchain, anyone can
+    see how the reputation was built, using what parameters, any from which
+    projects.  
+
+
+    ## Reproducibility
+
+    In traditional science, there is not much incentive towards verifying the
+    process, mathematical models, data and results of the research. There are
+    some check and balancers, but no one invests time to 
 - key: references
   title: References
   shortTitle: References
