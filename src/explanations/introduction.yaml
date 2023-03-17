@@ -154,7 +154,9 @@
 
     In traditional science, there is not much incentive towards verifying the
     process, mathematical models, data and results of the research. There are
-    some check and balancers, but no one invests time to 
+    some check and balancers, but no one invests time to reverify the things in
+    detail. In fields like Bio/Pharma it is very very important that the results
+    are easily reproducible 
 - key: references
   title: References
   shortTitle: References
