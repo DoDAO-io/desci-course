@@ -86,9 +86,9 @@
         },
         {
           "key": "refernces",
-          "title": "References",
           "shortTitle": "References",
-          "details": "- https://www.molecule.to/ - https://docs.molecule.to/documentation/introduction/readme - https://www.youtube.com/@Molecule_dao/videos\n"
+          "details": "- https://www.molecule.to/ \n- https://docs.molecule.to/documentation/introduction/readme \n- https://www.youtube.com/@Molecule_dao/videos\n",
+          "title": "References"
         }
       ],
       "questions": [
