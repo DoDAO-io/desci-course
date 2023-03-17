@@ -102,7 +102,7 @@
 - key: desci-benefits
   title: DeSci Benefits
   shortTitle: DeSci Benefits
-  details: >
+  details: >-
     DeFi has the potential to address many of the problems we discussed earlier,
     and DeSci, while still experimental, has garnered a lot of attention. There
     are real-world projects targeting these areas and making significant
@@ -137,7 +137,10 @@
     commercialization. They also bring unprecedented liquidity to IP markets.  
 
 
-    ## Supporting non mainstream causes
+    ## Reputation instead of citation
+
+    DeFi and blockchain is currently experimenting with many reputation
+    primitives like badges, soulbound(non-transferrable) tokens etc.
 - key: references
   title: References
   shortTitle: References
