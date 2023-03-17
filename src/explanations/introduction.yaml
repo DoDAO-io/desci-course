@@ -102,7 +102,7 @@
 - key: desci-benefits
   title: DeSci Benefits
   shortTitle: DeSci Benefits
-  details: >
+  details: >-
     DeFi can help solve many of these problems we discussed in the previous
     section. DeSci is still an experimental area, but has been drawing a lot of
     attention.  We will see real projects who are targeting these areas and
@@ -112,6 +112,18 @@
 
 
     ## Funding Help
+
+    We have already discussed how easy is it to raise the funds in a transparent
+    way using DeFi primitives like Bonding Curves, Liquidity Bootstrapping
+    Pools, etc. In DeSci we see even more innovative formats used for funding.
+    We see communities or Decentralized Autonomous Organizations formed around
+    causes like Longevity, Psychedelics, Hair Loss etc. Then communities have
+    their token which helps in creating a treasury, and then members vote and
+    select the projects or researchers they should funds. Even traditions pharma
+    players and trying to participate in these models. An example can be seen in
+    VitaDAO, a decentralized autonomous organization (DAO) focused on raising
+    funds for research on extending human life, has closed a $4.1 million
+    funding round with Pfizer Ventures and several others.
 - key: references
   title: References
   shortTitle: References
