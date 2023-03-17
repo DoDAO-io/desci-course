@@ -102,7 +102,7 @@
 - key: desci-benefits
   title: DeSci Benefits
   shortTitle: DeSci Benefits
-  details: >-
+  details: >
     DeFi has the potential to address many of the problems we discussed earlier,
     and DeSci, while still experimental, has garnered a lot of attention. There
     are real-world projects targeting these areas and making significant
@@ -155,8 +155,26 @@
     In traditional science, there is not much incentive towards verifying the
     process, mathematical models, data and results of the research. There are
     some check and balancers, but no one invests time to reverify the things in
-    detail. In fields like Bio/Pharma it is very very important that the results
-    are easily reproducible 
+    detail. In fields like Bio/Pharma it is very important that the results are
+    easily reproducible. In 2022, world came to know about the manipulated study
+    on Alzheimer. This study and forged images of the results and no one
+    verified the research for more than a decade. Other researchers based on
+    their research on those results. National Institution of Health paid
+    hundreds of millions of dollars to the projects that were either directly or
+    indirectly based on that manipulated research.  By adding newer incentives
+    and reputation, a lot of focus can be made on the reproducibility and
+    verification of the research.
+
+
+    ## Communication and Collaboration
+
+    Sometimes more than the technology its the culture that brings in a shift.
+    There are hundreds of tools available that help in collaboration based on a
+    cause or a topic. These tools have been used extensively in Software
+    Development teams or in Blockchain Teams. With DeSci, we see communities
+    brining in the same culture of openness and collaboration and enable
+    researchers, scientists, academicians, students and industry experts to all
+    collaborate together towards common causes.
 - key: references
   title: References
   shortTitle: References
