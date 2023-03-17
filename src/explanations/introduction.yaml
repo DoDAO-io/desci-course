@@ -100,14 +100,18 @@
     Additionally, there is often no clear or flexible way to distribute rewards
     based on individual contributions to the project.
 - key: desci-benefits
-  shortTitle: DeSci Benefits
-  details: |-
-    DeSci Benefits
-
-    DeSci Benefits
-
-    DeSci Benefits
   title: DeSci Benefits
+  shortTitle: DeSci Benefits
+  details: >
+    DeFi can help solve many of these problems we discussed in the previous
+    section. DeSci is still an experimental area, but has been drawing a lot of
+    attention.  We will see real projects who are targeting these areas and
+    making a lot of progress. Our focus is learn from the new primitives and
+    from the new projects to see what all can we borrow and make use of in our
+    project or situation. Lets look at the things that DeSci provides
+
+
+    ## Funding Help
 - key: references
   title: References
   shortTitle: References
