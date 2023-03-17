@@ -102,7 +102,7 @@
 - key: desci-benefits
   title: DeSci Benefits
   shortTitle: DeSci Benefits
-  details: >-
+  details: >
     DeFi has the potential to address many of the problems we discussed earlier,
     and DeSci, while still experimental, has garnered a lot of attention. There
     are real-world projects targeting these areas and making significant
@@ -125,7 +125,24 @@
     funding round with Pfizer Ventures and several others.
 
 
-    ## 
+    ## Flexible Intellectual Property Ownership
+
+    DeSci, by using some of the Ethereum, like ERC-20 tokens and ERC-721 NFT
+    standards make it possible to represent in the intellectual property on
+    blockchain. One such Intellectual Property primitive is "IP-NFT" that is
+    developed by Molecule.
+
+
+    IP-NFTs connect Intellectual Property and research data rights to
+    Non-Fungible Tokens through legal contracts attached to smart contracts.
+    They are used in decentralized science and present a new paradigm in the
+    evolution of legal contracts for scientific research. Stored on Ethereum,
+    they can be transferred, used in DeFi, fractionalized, and empower crowd
+    control of ethics in commercialization. They also create unprecedented
+    liquidity in IP markets.  
+
+
+    ## Supporting non mainstream causes
 - key: references
   title: References
   shortTitle: References
