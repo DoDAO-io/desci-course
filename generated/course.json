@@ -307,7 +307,7 @@
     {
       "title": "LabDAO",
       "key": "labdao",
-      "details": "Needs to be added\n",
+      "details": "LabDAO is a new type of research organization aimed at advancing computational life sciences.  It offers independent researchers and university affiliates with the resources and support necessary to secure funding, connect with collaborators, and conduct research. LabDAO endeavors to construct an internet-era ARPA that is owned by the community.\n",
       "order": 2,
       "explanations": [
         {
@@ -361,64 +361,6 @@
             },
             {
               "content": "All of the above",
-              "key": "D"
-            }
-          ]
-        },
-        {
-          "uuid": "45523015-8c2e-4b0b-94ba-bec0338a340a",
-          "type": "SingleChoice",
-          "content": "What are the benefits of LabDAO's approach to accelerating progress in biomedicine?",
-          "hint": "NoHint",
-          "explanation": "LabDAO's approach involves creating an open exchange of wet-lab and dry-lab tooling, defining standards around biomedical tools to increase reproducibility and transparency, and incentivizing contributors to develop applications and provide instrumentation. LabDAO believes that abstracted infrastructure, such as cloud computing, has lowered the upfront cost of starting a new technology company.",
-          "answerKeys": [
-            "D"
-          ],
-          "difficultyLevel": "Low",
-          "choices": [
-            {
-              "content": "Increased reproducibility of biomedical tools",
-              "key": "A"
-            },
-            {
-              "content": "Lower cost of starting a new drug technology company",
-              "key": "B"
-            },
-            {
-              "content": "Foster the emergence of independent entities that maintain open-source tools",
-              "key": "C"
-            },
-            {
-              "content": "All of the above",
-              "key": "D"
-            }
-          ]
-        },
-        {
-          "uuid": "427fb827-d754-40b9-86d4-463328f02956",
-          "type": "SingleChoice",
-          "content": "What is an important component of an effective research environment?",
-          "hint": "NoHint",
-          "explanation": "The availability of scientific infrastructure is an important component of an effective research environment.",
-          "answerKeys": [
-            "A"
-          ],
-          "difficultyLevel": "Low",
-          "choices": [
-            {
-              "content": "A. The availability of scientific infrastructure",
-              "key": "A"
-            },
-            {
-              "content": "B. The location of the research facility",
-              "key": "B"
-            },
-            {
-              "content": "C. The number of research papers published",
-              "key": "C"
-            },
-            {
-              "content": "D. The age of the research team members",
               "key": "D"
             }
           ]

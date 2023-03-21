@@ -24,38 +24,6 @@ Sub Topics: No Sub-Topics
 
 ---
 
-##### What are the benefits of LabDAO's approach to accelerating progress in biomedicine?  
-
-- [ ]  Increased reproducibility of biomedical tools
-- [ ]  Lower cost of starting a new drug technology company
-- [ ]  Foster the emergence of independent entities that maintain open-source tools
-- [x]  All of the above
-  
-Hint: NoHint
-         
-Explanation: LabDAO's approach involves creating an open exchange of wet-lab and dry-lab tooling, defining standards around biomedical tools to increase reproducibility and transparency, and incentivizing contributors to develop applications and provide instrumentation. LabDAO believes that abstracted infrastructure, such as cloud computing, has lowered the upfront cost of starting a new technology company.
-
-Sub Topics: No Sub-Topics
- 
-
----
-
-##### What is an important component of an effective research environment?  
-
-- [x]  A. The availability of scientific infrastructure
-- [ ]  B. The location of the research facility
-- [ ]  C. The number of research papers published
-- [ ]  D. The age of the research team members
-  
-Hint: NoHint
-         
-Explanation: The availability of scientific infrastructure is an important component of an effective research environment.
-
-Sub Topics: No Sub-Topics
- 
-
----
-
 ##### What is PLEX?  
 
 - [x]  A software to run computational biology tools

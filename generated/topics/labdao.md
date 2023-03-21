@@ -5,7 +5,7 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
 
 ## LabDAO
  
-Needs to be added
+LabDAO is a new type of research organization aimed at advancing computational life sciences.  It offers independent researchers and university affiliates with the resources and support necessary to secure funding, connect with collaborators, and conduct research. LabDAO endeavors to construct an internet-era ARPA that is owned by the community.
 
 
 ## Links
