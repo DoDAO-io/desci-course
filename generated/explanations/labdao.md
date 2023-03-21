@@ -1,0 +1,85 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## LabDAO
+ 
+ **Problem**        
+Over the last 20 years, open-source code has accelerated progress in information technology by enabling the sharing of code at a low cost and with high reliability. The sharing of code is facilitated by technology market dynamics, in which intellectual property is less relevant than the ability to execute, time to market, and trade secrets around implementation.
+However, open-source biomedicine is still waiting for its moment. Progress in biomedicine has been slowed down by the high cost of reproducing life science processes and the low reliability of generating expected results. Sharing instructions is hampered by intellectual property and trade secrets, the primary mode of defense against competitors during the lengthy regulatory approval processes seen in the life science industry.
+While cloud computing providers have removed the barriers to executing code by moving hardware online, there is no comparable layer of abstraction for dry-lab and wet-lab tools in biomedicine. LabDAO believes that an open-source exchange for dry-lab and wet-lab tools could help reduce the high costs created by secrecy around biomedical tooling, increase the reproducibility of biomedical tools, and foster the emergence of independent entities that maintain open-source tools.
+
+#### Solution
+
+To accelerate progress, LabDAO enables scientists to share their specialized tools and services with each other easily. Researchers can discover tools and projects on an open exchange instead of going through a lengthy search for collaborators or service providers.
+LabDAO's approach involves creating an open exchange of wet-lab and dry-lab tooling, defining standards around biomedical tools to increase reproducibility and transparency, and incentivizing contributors to develop applications and provide instrumentation. LabDAO believes that abstracted infrastructure, such as cloud computing, has lowered the upfront cost of starting a new technology company. Similarly, they are convinced that such abstracted infrastructure in biomedicine, both in the dry-lab and wet-lab domain, can facilitate the growth of new life science companies.
+ 
+ **Introduction to LabDAO**        
+To better understand LabDAO's approach, let's first have a look on what is an effective research environment.
+
+#### What defines an effective research environment?
+
+An effective research environment is crucial for scientists to achieve their goals. The following factors define such an environment:
+- Access to Scientific Infrastructure: The availability of scientific infrastructure is paramount for scientists to conduct targeted tinkering. New methods and technologies that allow for a novel approach to discovering something about the world are often crucial for scientific breakthroughs. In order to make progress, scientists need to have access to the tools and equipment necessary to conduct their experiments.
+- Dynamic Teams: The ability to form dynamic teams is also an important component of an effective research environment. Unlike traditional labs where teams are formed around a professor, dynamic teams are often project-focused and assembled to solve a particular problem or address a specific need. Such teams allow for micro-expertise, where individuals with specialized skills can come together to tackle a specific scientific challenge.
+- Funding to Develop Infrastructure and Accelerate Inventors: Funding is crucial for scientists to develop initial infrastructure and accelerate their inventions. A smooth project size distribution, as proposed by Ben Reinhardt, is necessary to achieve this. This means that funding should be available to grow a project from just an idea to a research project, and eventually to a serious technology company. Such funding can come from a variety of sources, including government grants, venture capital firms, and philanthropic organizations.
+
+#### Where does LabDAO come in?
+
+In recent times, there has been a surge in various projects that are aimed at supporting scientific research through funding agencies and execution agencies, as well as distribution mechanisms. However, the middle ground where scientists and their tools can interact is missing, which is where LabDAO comes in with its focus on team and tool development. LabDAO's mission is to provide a space where scientists can collaborate and access the necessary tools to generate and distribute their research.
+One of the challenges in decentralized science is bringing tools into an online room where they can be utilized effectively. A crucial question to address is how to bring tools like a cell culture bench into an online chat room. LabDAO's answer is to create a marketplace protocol where labs can offer their services and share them in a structured format. This approach will enable scientists to access the necessary tools and generate new data, which they can then distribute. LabDAO's focus on building a supportive ecosystem for scientific research provides a promising avenue for scientists to collaborate, access necessary tools, and distribute their research effectively. To achieve their mission, LabDAO has categorized the exchange for laboratory services under Lab Exchange and the set of required tools under Lab Teams. Let's have a look.
+#### Lab Exchange
+
+LabExchange is a peer-to-peer exchange for laboratory services that operates under a DAO governance structure. It offers a marketplace protocol where laboratories can provide data-generating services such as testing the binding behavior of a specific target or synthesizing small molecules. The exchange is currently in its early stages, and its client, which is designed for computational biologists, is pre-release. The exchange lists available apps, ranging from simple functions like reverse complement to complex ones like protein folding, and allows data sharing via the InterPlanetary File System (IPFS) and Estuary.
+LabExchange aims to create a structured format for laboratories to offer their services and for teams of scientists and their tools to interact. It provides "lab teams" as a way for scientists to collaborate and become discoverable by people with micro-expertise. The marketplace protocol enables laboratories, both for-profit and non-profit, to share their services, which scientists can use to generate new data. The goal is to create an online space where tools like a cell culture bench can be brought into an online chat room, allowing scientists to access specific services and generate new data. While the protocol is still in its early stages, it provides a promising avenue for scientific research.
+
+#### Lab Teams
+
+LabTeams are a crucial component of enabling scientific progress and collaboration through dynamic team formation among scientists. The role of subject matter stewards in leading a group and guiding expert attention is important for initiating projects and facilitating conversations. However, to effectively concentrate expertise, there needs to be tools for collective intelligence that allow even outsiders to contribute their micro expertise.
+In order to encourage scientists to contribute to the LabDAO, there are onboarding flows that explain decentralized science and take users through a step-by-step process to join the community. The LabDAO is a community of people focused on specific problems, project ideas, or open-source repositories, where labs develop their own culture and track their contributions. Through this open-source community, standardizations around laboratory services can emerge, leading to many-to-many relationships and providing physical laboratory services to online research communities.
+LabDAO's approach to creating a marketplace protocol where laboratories can offer their services and share them in a structured format addresses the challenge of bringing tools like a cell culture bench into an online chat room. With LabTeams, scientists can collaborate, access necessary tools, and generate new data to distribute their research effectively. By creating a supportive ecosystem for scientific research, LabDAO provides a promising avenue for scientific progress and collaboration.
+ 
+ **LabDAO Tools**        
+#### Introducing PLEX
+
+To purse the DeSci future, LabDAO has a goal to make Bio ML tools more accessible and clinically relevant. In a quest to build best-in-class tools, they have built tools for Small Molecule Binding and Protein Folding initially, so that you don’t have to spend days researching and setting up Bio ML tools.
+#### What is PLEX?
+
+PLEX is a piece of software that allows you to run computational biology tools using simple commands from your computer.
+PLEX manages all the required dependencies and installations, to make the tools as easy to run as possible.
+When you run a tool, PLEX requests compute-time from members of the LabDAO network, so you don’t have to worry about hardware requirements for setting up the necessary compute infrastructure.
+#### What is Small Molecule Binding?
+
+The concept of small molecule binding involves investigating the interaction between a small molecule and a target, typically a protein. The process involves bringing the small molecule and the target into proximity, either through in silico or laboratory methods, with the aim of determining whether there is binding between them. The key questions that need to be answered are whether the small molecule binds to the protein and, if so, what is the strength of this interaction. The strength of the interaction is commonly known as the "binding affinity".
+#### Introduction to Small Molecule Binding Affinity
+
+Small molecule binding affinity refers to the strength of the interaction between a small molecule and a target, typically a protein.
+#### Importance of Determining Binding Affinity
+
+Determining the binding affinity is crucial as a strong interaction increases the likelihood that the drug candidate's clinical effect is due to its interaction with the target, rather than other structures in the organism. It helps to understand the target of the drug candidate and make informed decisions to increase success in later phases of drug discovery.
+It is recommended to determine the binding affinity early in the drug discovery process to ensure that only candidates with strong binding affinity to their target protein are selected for further development.
+#### Predicting Binding Affinity
+
+Machine learning models can be utilized to predict the binding affinity of a small molecule and protein. LabDAO offers computational tools that use molecular docking to dock the small molecule and protein, and score the predicted interaction. The score, as well as two separate files showing the small molecule and protein, will be returned for further exploration.
+#### Describing Binding Affinity
+
+The binding affinity can be described with three related metrics: ΔG (binding free energy), Kd (dissociation constant), and IC50 (half-maximal inhibitory concentration). ΔG is the most generalizable metric to describe binding affinity, while IC50 is highly context-dependent.
+#### Interpreting Binding Affinity
+
+Binding affinity data can be interpreted by comparing the ΔG, Kd, or IC50 values to a set of reference values for the target. A lower value of these metrics implies a stronger interaction between the small molecule and target protein. A strong interaction is indicated by a negative ΔG value, Kd or IC50 close to 0.
+#### Measuring Binding Affinity in the Lab
+
+Surface-Plasmon-Resonance (SPR) and Bio-layer Interferometry (BLI) are popular, accurate, and label-free methods used to measure the binding affinity of a protein and small molecule in the lab. The cost of an average SPR experiment can range from several thousand dollars to tens of thousands of dollars, depending on the experiment's complexity and equipment used.
+#### Tools for Predicting Binding Affinity
+
+There is a wide range of tools available for predicting the binding affinity between small molecules and proteins. To help you navigate this landscape, we have researched and compiled a list of tools that are ready for use on PLEX.
+Please note that all models provided are research-grade software and are provided "as-is". While they can be helpful for predicting binding affinity, they should not be considered a substitute for laboratory experiments.
+Mini: Equibind Equibind is a machine learning-based docking tool that is extremely fast. While it may be less accurate than some baseline methods, it is orders of magnitude faster, making it a good choice for certain applications.
+Base: Gnina (Coming Soon) Gnina is a sampling and machine learning-based docking tool that is considered a current open source baseline. It is an implementation of Smina, which is a fork of Vina.
+Standard: Diffdock Diffdock is a machine learning-based docking tool that is reportedly faster and more accurate than existing baseline tools.
+ 
+ **References**        
+- https://labdao.xyz/ - https://docs.labdao.xyz/ - https://youtu.be/0fMamb3T-aU
+ 
+ 
