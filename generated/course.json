@@ -1,8 +1,8 @@
 {
   "key": "desci-course",
   "title": "Decentralized Science",
-  "summary": "This is a course template\n",
-  "details": "## Coming Soon",
+  "summary": "DeSci provides infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge",
+  "details": "> Decentralized science (DeSci) is a movement that aims to build public infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge fairly and equitably using the Web3 stack – Ethereum.org",
   "duration": "30 mins - 1 hour",
   "highlights": [
     "Introduction"
@@ -357,5 +357,6 @@
       "summaries": [],
       "questions": []
     }
-  ]
+  ],
+  "priority": 50
 }
