@@ -10,23 +10,79 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
 
 There is a lot to unpack in this definition, with each term such as "funding, creating, reviewing, crediting, storing, and disseminating" requiring detailed explanation. Undoubtedly, science has played a major role in making the world a better place for humans than ever before. Private industry readily supports areas of innovation that promise short-term financial gains, while research in fields that lack direct monetary benefits, such as space exploration, bio research, and pollution control, rely heavily on government funding. Unfortunately, the outcomes of such research often prioritize theoretical publications over real-world impact.
 
-DeSci is an experimental field that takes cues from open-source software development, as well as DeFi and Decentralized Autonomous Organization concepts, to streamline and optimize the entire research process. By employing mechanisms such as public open grants, incentivized coordination, effort tracking, and reward distribution, DeSci aims to make research more efficient and effective. 
+DeSci is an experimental field that takes cues from open-source software development, as well as DeFi and Decentralized Autonomous Organization concepts, to streamline and optimize the entire research process. By employing mechanisms such as public open grants, incentivized coordination, effort tracking, and reward distribution, DeSci aims to make research more efficient and effective.
+
+Although DeSci concepts can be applied in any sector, there has been a notable increase in the adoption of decentralized concepts and primitives within the field of biopharma. Therefore, this course will specifically concentrate on the implementation of DeSci in the biopharma science domain.
+ 
  **Traditional Science **        
-Traditional way of science has led to many great outcomes but over the years the entire process has deteriorated as it has not been able to keep up with the pace of technology. Many of the problems faced in the Traditional Science institutions are same as faced by government bodies and that is primarily because science and the decision making is has become very centralized. Also the focus has moved away from impact to more towards publishing research papers. Below we discuss some of the biggest problems that are faced in the current Traditional Science industry. 
+The traditional approach to science has not kept pace with technological advancements, and science institutions face several issues due to centralization of decision-making. Some of the significant problems include issues with technology transfer offices, commercialization, funding, collaboration, and relevance. These issues affect biopharma researchers' ability to bring new drugs and therapies to market, secure funding, collaborate effectively, and ensure the industry is aware of their research. Let's discuss these issues in detail
 
-## Funding
-Funding problems in science exist both in public and private sectors. The challenges faced in private sector by science startups is same or in fact more intense than other startup as the product turnaround time in science startups is quite longer and the investment needed for hardware or initial setup is also relatively quite high. Private VCs invest purely based on risk/reward and not based on the impact.   
+## Issues with Technology Transfer Offices (TTOs)
+The transfer of technology from academia to the market is a vital function carried out by Technology Transfer Offices (TTOs), enabling scientific research to be translated into tangible products and services that benefit society. Nonetheless, TTOs and researchers are confronted with numerous challenges, including conflicts with tenure and promotion policies, limited resources, complex legal and regulatory requirements, and difficulties in identifying potential commercial partners.
 
-In the public space, the grant mechanisms that government entities use are often outdated and favour the veterans of the fields. Normally it is easier to get funding for newer initiatives, which means that the focus of the grantees is more towards wrapping up the existing project and then starting on a new initiative, rather than making sure that the current project has long term usefulness. 
+TTOs outside of the top universities often encounter issues due to limited budgets and expertise, including intellectual property management, commercialization and licensing, funding and budget constraints, legal and regulatory compliance, collaboration and partnerships, and a limited understanding of business and entrepreneurship. Furthermore, cultural disparities and language barriers can pose difficulties for researchers operating across multiple countries and regions.
 
-The way the grants are distributed are also biased, and its more of the field veterans giving grants to other veterans making it very difficult for new members to   
+## Commercialization
+The commercialization of biopharmaceutical research is an arduous process due to various challenges such as regulatory barriers, concerns surrounding intellectual property, and the high costs associated with drug development. The regulatory process is both time-consuming and expensive, often requiring researchers to conduct multiple clinical trials before their drug can be approved for commercialization. Keeping up with the evolving regulatory landscape is crucial to ensure compliance.
+
+Drug development is a risky and potentially lucrative venture, with high failure rates. Only a small percentage of compounds that undergo development are ultimately approved for market, and those that do often come with a hefty price tag. Given these complex processes, many biopharmaceutical researchers are hesitant to pursue commercialization. However, it is only through commercialization and mass production that drugs can become widely accessible to patients. Unfortunately, much research is left unpublished and not pursued for commercialization, denying patients the benefits of new discoveries.
+
+## Funding 
+Bringing a new drug or therapy to market in the biopharmaceutical industry typically requires a substantial amount of funding to cover expenses such as clinical trials, regulatory approvals, and manufacturing. However, due to the high level of risk involved, investors may be reluctant to invest in biopharma research, resulting in a lack of funding for promising research projects.
+
+Moreover, research projects focused on rare diseases or conditions may struggle to secure sufficient funding, as they may not have a large enough market to be financially viable. These challenges make it difficult for biopharma researchers to obtain the necessary funding to bring their research to fruition.
+
+In the public sector, government grant mechanisms are outdated and tend to favor established researchers, making it easier for them to secure funding for new initiatives. Consequently, grantees often prioritize completing current projects and starting new ones over ensuring the long-term effectiveness of existing projects. Additionally, there is a bias in grant distribution, as veteran researchers often prefer to grant funding to other veterans, making it challenging for new researchers to obtain funding.
+
+
+## Collaboration Issues
+Collaboration can be a challenging prospect for biopharma researchers due to several obstacles. One of the primary hurdles is the highly competitive nature of the industry, which can discourage companies from collaborating with rivals and sharing critical resources, including patient data or specialized equipment.
+
+Another significant challenge is the lack of standardization in data and research protocols. Biopharma researchers frequently use varying methods for collecting and analyzing data, making it difficult to compare study results. This issue can be particularly problematic when attempting to reproduce study outcomes, a crucial step in the drug development process. Moreover, regulatory agencies may impose different clinical trial and data collection requirements, further complicating the collaboration process.
+
+
+## Relevance
+Most research done by PhDs is buried in research papers, and the focus is solely on publishing rather than applicability of research. Academic institutions have minimum publication requirements for tenured positions. After research is published, academics do not make an effort to ensure the industry is aware of it or that others can use their research.
+
+Furthermore, many researchers prioritize using checklists for methods applicability, data availability, and result derivability, rather than focusing on novelty of topics or ideas. Newer areas have relatively less literature or data available, making it challenging to apply existing models or methods, which discourages working on the latest trends.
+
+## Intellectual Property Ownership
+One of the significant challenges facing biopharmaceutical researchers is protecting the intellectual property associated with their products. The patent process for biopharmaceuticals is complicated, time-consuming, and expensive, and infringement of existing patents can result in costly legal battles, delaying the introduction of new products to market. Researchers must navigate the complex landscape of existing IP rights while ensuring that their innovations do not infringe on other patents.
+
+## Reward Distribution
+Despite the potential market value of the IP produced, there is often a lack of reward structures in place for researchers. This can lead to a shift in focus from the research itself to obtaining a tenured position. Additionally, there is often no clear or flexible way to distribute rewards based on individual contributions to the project. 
+ **DeSci Benefits**        
+DeFi has the potential to address many of the problems we discussed earlier, and DeSci, while still experimental, has garnered a lot of attention. There are real-world projects targeting these areas and making significant progress. Our focus is to learn from the new primitives and projects in order to determine what we can borrow and apply in our own project or situation. Let's explore the benefits provided by DeSci.
+
+## Assistance with Funding
+As we previously mentioned, it is easy to raise funds in a transparent manner using DeFi primitives like Bonding Curves and Liquidity Bootstrapping Pools. In DeSci, even more innovative formats are being used for funding. Communities or Decentralized Autonomous Organizations are formed around causes such as Longevity, Psychedelics, and Hair Loss. These communities have their own tokens that help create a treasury, and members vote to select the projects or researchers to fund. Even traditional pharma players are participating in these models. For example, VitaDAO, a DAO focused on raising funds for research on extending human life, closed a $4.1 million funding round with Pfizer Ventures and several others.
+
+## Flexible Intellectual Property Ownership
+DeSci uses Ethereum's ERC-20 tokens and ERC-721 NFT standards to represent intellectual property on the blockchain. Molecule has developed an "IP-NFT" as an Intellectual Property primitive. These IP-NFTs connect IP and research data rights to NFTs using legal contracts attached to smart contracts. They represent a new paradigm in legal contracts for scientific research and are stored on Ethereum. IP-NFTs can be transferred, used in DeFi, fractionalized, and enable crowd control of ethics in commercialization. They also bring unprecedented liquidity to IP markets.
+
+## Reputation instead of Citation
+DeFi and blockchain are currently experimenting with many reputation primitives like badges, soulbound tokens, and non-transferrable tokens, which can be used to encourage a multitude of tasks that are needed for the continuity of research in a field, rather than just focusing on the number of research papers or citations. Since this reputation lives on the blockchain, anyone can see how the reputation was built, using what parameters, and from which projects.
+
+## Reproducibility
+In traditional science, there is not much incentive to verify the process, mathematical models, data, and results of the research. There are some check and balancers, but no one invests time to reverify the details. In fields like Bio/Pharma, it is essential that the results are easily reproducible. In 2022, the world learned about the manipulated study on Alzheimer's. The study contained forged images of the results, and no one verified the research for more than a decade. Other researchers based their research on those results. The National Institution of Health paid hundreds of millions of dollars to projects that were either directly or indirectly based on that manipulated research. By adding new incentives and reputation, much focus can be made on the reproducibility and verification of the research.
+
+## Communication and Collaboration
+Sometimes, it's the culture that brings in a shift, more than the technology itself. There are hundreds of tools available that help in collaboration based on a cause or a topic. These tools have been extensively used in Software Development teams or Blockchain teams. With DeSci, we see communities bringing in the same culture of openness and collaboration, enabling researchers, scientists, academicians, students, and industry experts to collaborate towards common causes.
+
+
+
+
+
+ 
  **References**        
 - https://ethereum.org/en/desci
 - https://ieeexplore.ieee.org/document/9906878
 - https://www.thebrackengroup.com/blog/biotech-daos-desci-and-life-science-web3-concepts
 - https://www.desci.global/
-- https://medium.com/paradigm-research/decentralized-science-desci-web3-mediated-future-of-science-2547f9a88c40 - very good
+- https://medium.com/paradigm-research/decentralized-science-desci-web3-mediated-future-of-science-2547f9a88c40
 - https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease
 - https://www.cryptoaltruism.org/blog/5-desci-projects-disrupting-scientific-research-and-development
--  
+- https://www.tandfonline.com/doi/full/10.1080/23299460.2019.1608615
+- https://milkeninstitute.org/sites/default/files/reports-pdf/Concept2Commercialization-MR19-WEB_2.pdf
+- https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-015-0064-2 
  

@@ -1,0 +1,119 @@
+- uuid: bc384b13-dc75-4e92-9b7d-d82a0663086d
+  type: SingleChoice
+  content: What is LabDAO's approach to accelerating progress in biomedicine?
+  hint: NoHint
+  explanation: LabDAO's approach involves creating an open exchange of wet-lab and dry-lab tooling, defining standards around biomedical tools to increase reproducibility and transparency, and incentivizing contributors to develop applications and provide instrumentation. LabDAO believes that abstracted infrastructure, such as cloud computing, has lowered the upfront cost of starting a new technology company.
+  answerKeys:
+    - D
+  difficultyLevel: Low
+  choices:
+    - content: Creating an open exchange of wet-lab and dry-lab tooling
+      key: A
+    - content: Defining standards around biomedical tools
+      key: B
+    - content: Incentivizing contributors to develop applications and provide instrumentation
+      key: C
+    - content: All of the above
+      key: D
+- uuid: eac09a25-ae25-44dd-8fe5-302b6e477781
+  type: SingleChoice
+  content: What is PLEX?
+  hint: NoHint
+  explanation: PLEX is a piece of software that allows you to run computational biology tools using simple commands from your computer.
+  answerKeys:
+    - A
+  difficultyLevel: Low
+  choices:
+    - content: A software to run computational biology tools
+      key: A
+    - content: A protein folding tool
+      key: B
+    - content: A small molecule binding tool
+      key: C
+    - content: A laboratory tool
+      key: D
+- uuid: c352bbaa-c7fa-461f-96b2-6f088ccef02d
+  type: SingleChoice
+  content: What is small molecule binding affinity?
+  hint: NoHint
+  explanation: The concept of small molecule binding involves investigating the interaction between a small molecule and a target, typically a protein. The process involves bringing the small molecule and the target into proximity, either through in silico or laboratory methods, with the aim of determining whether there is binding between them.
+  answerKeys:
+    - B
+  difficultyLevel: Low
+  choices:
+    - content: The strength of the interaction between a small molecule and a target, typically a protein
+      key: A
+    - content: The interaction between a small molecule and a target, typically a protein
+      key: B
+    - content: The process of bringing the small molecule and target into proximity
+      key: C
+    - content: The likelihood that the drug candidate's clinical effect is due to its interaction with the target
+      key: D
+- uuid: 5b60677e-1135-486e-b16f-46840f909642
+  type: SingleChoice
+  content: What is the purpose of PLEX software in computational biology?
+  hint: NoHint
+  explanation: The purpose of PLEX software is to make Bio ML tools more accessible to everyone.
+  answerKeys:
+    - C
+  difficultyLevel: Low
+  choices:
+    - content: To make Bio ML tools more expensive
+      key: A
+    - content: To make Bio ML tools more complicated
+      key: B
+    - content: To make Bio ML tools more accessible
+      key: C
+    - content: To make Bio ML tools more exclusive
+      key: D
+- uuid: 5a89749b-e370-4d0e-9948-0a783940f8dc
+  type: SingleChoice
+  content: What is the cost range of an average SPR experiment for measuring binding affinity in the lab?
+  hint: NoHint
+  explanation: The cost of an average SPR experiment can range from several thousand dollars to tens of thousands of dollars, depending on the experiment's complexity and equipment used.
+  answerKeys:
+    - B
+  difficultyLevel: Low
+  choices:
+    - content: A few hundred dollars
+      key: A
+    - content: Several thousand dollars to tens of thousands of dollars
+      key: B
+    - content: Over a hundred thousand dollars
+      key: C
+    - content: Free
+      key: D
+- uuid: d7518d86-8ed4-45ae-acf0-e955e3165191
+  type: SingleChoice
+  content: What is the LabDAO's goal regarding Bio ML tools?
+  hint: NoHint
+  explanation: LabDAO has a goal to make Bio ML tools more accessible and clinically relevant.
+  answerKeys:
+    - B
+  difficultyLevel: Low
+  choices:
+    - content: To make them more expensive and complicated
+      key: A
+    - content: To make them more accessible and clinically relevant
+      key: B
+    - content: To make them clinically irrelevant
+      key: C
+    - content: To make them more exclusive and proprietary
+      key: D
+- uuid: 5354e3e3-2426-4414-b1f9-718a09af4db3
+  type: SingleChoice
+  content: How does LabDAO believe abstracted infrastructure can facilitate the growth of new life science companies?
+  hint: NoHint
+  explanation: LabDAO's approach involves creating an open exchange of wet-lab and dry-lab tooling, defining standards around biomedical tools to increase reproducibility and transparency, and incentivizing contributors to develop applications and provide instrumentation. LabDAO believes that abstracted infrastructure, such as cloud computing, has lowered the upfront cost of starting a new technology company.
+  answerKeys:
+    - B
+  difficultyLevel: Low
+  choices:
+    - content: By increasing the cost of starting a new technology company
+      key: A
+    - content: By reducing the upfront cost of starting a new technology company
+      key: B
+    - content: By increasing the regulatory approval processes for new companies
+      key: C
+    - content: By decreasing the reproducibility and transparency of biomedical tools
+      key: D
