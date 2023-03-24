@@ -15,23 +15,39 @@ DeSci is an experimental field that takes cues from open-source software develop
 Although DeSci concepts can be applied in any sector, there has been a notable increase in the adoption of decentralized concepts and primitives within the field of biopharma. Therefore, this course will specifically concentrate on the implementation of DeSci in the biopharma science domain.
  
  **Traditional Science **        
-While the traditional approach to science has led to numerous advancements, it has not kept pace with technological advancements, resulting in a deteriorating process. Similar to government bodies, science institutions also face several issues, primarily due to centralization of decision-making. Additionally, the focus has shifted from making an impact to publishing research papers. Some of the most significant problems currently faced by the traditional science industry are discussed below.
+The traditional approach to science has not kept pace with technological advancements, and science institutions face several issues due to centralization of decision-making. Some of the significant problems include issues with technology transfer offices, commercialization, funding, collaboration, and relevance. These issues affect biopharma researchers' ability to bring new drugs and therapies to market, secure funding, collaborate effectively, and ensure the industry is aware of their research. Let's discuss these issues in detail
 
-## Funding
-Funding problems plague both the public and private sectors in science. Science startups face more intense funding challenges than other startups as their product turnaround time is longer, and initial setup costs are higher. Private VCs invest based solely on risk/reward and not impact.
+## Issues with Technology Transfer Offices (TTOs)
+The transfer of technology from academia to the market is a vital function carried out by Technology Transfer Offices (TTOs), enabling scientific research to be translated into tangible products and services that benefit society. Nonetheless, TTOs and researchers are confronted with numerous challenges, including conflicts with tenure and promotion policies, limited resources, complex legal and regulatory requirements, and difficulties in identifying potential commercial partners.
 
-In the public sector, the grant mechanisms used by government entities are outdated and favor field veterans. It is easier to obtain funding for newer initiatives, which means grantees focus on completing current projects and starting new ones rather than ensuring long-term usefulness of current projects. Grant distribution is also biased, with veterans giving grants to other veterans, making it challenging for new members to secure funding.
+TTOs outside of the top universities often encounter issues due to limited budgets and expertise, including intellectual property management, commercialization and licensing, funding and budget constraints, legal and regulatory compliance, collaboration and partnerships, and a limited understanding of business and entrepreneurship. Furthermore, cultural disparities and language barriers can pose difficulties for researchers operating across multiple countries and regions.
+
+## Commercialization
+The commercialization of biopharmaceutical research is an arduous process due to various challenges such as regulatory barriers, concerns surrounding intellectual property, and the high costs associated with drug development. The regulatory process is both time-consuming and expensive, often requiring researchers to conduct multiple clinical trials before their drug can be approved for commercialization. Keeping up with the evolving regulatory landscape is crucial to ensure compliance.
+
+Drug development is a risky and potentially lucrative venture, with high failure rates. Only a small percentage of compounds that undergo development are ultimately approved for market, and those that do often come with a hefty price tag. Given these complex processes, many biopharmaceutical researchers are hesitant to pursue commercialization. However, it is only through commercialization and mass production that drugs can become widely accessible to patients. Unfortunately, much research is left unpublished and not pursued for commercialization, denying patients the benefits of new discoveries.
+
+## Funding 
+Bringing a new drug or therapy to market in the biopharmaceutical industry typically requires a substantial amount of funding to cover expenses such as clinical trials, regulatory approvals, and manufacturing. However, due to the high level of risk involved, investors may be reluctant to invest in biopharma research, resulting in a lack of funding for promising research projects.
+
+Moreover, research projects focused on rare diseases or conditions may struggle to secure sufficient funding, as they may not have a large enough market to be financially viable. These challenges make it difficult for biopharma researchers to obtain the necessary funding to bring their research to fruition.
+
+In the public sector, government grant mechanisms are outdated and tend to favor established researchers, making it easier for them to secure funding for new initiatives. Consequently, grantees often prioritize completing current projects and starting new ones over ensuring the long-term effectiveness of existing projects. Additionally, there is a bias in grant distribution, as veteran researchers often prefer to grant funding to other veterans, making it challenging for new researchers to obtain funding.
+
+
+## Collaboration Issues
+Collaboration can be a challenging prospect for biopharma researchers due to several obstacles. One of the primary hurdles is the highly competitive nature of the industry, which can discourage companies from collaborating with rivals and sharing critical resources, including patient data or specialized equipment.
+
+Another significant challenge is the lack of standardization in data and research protocols. Biopharma researchers frequently use varying methods for collecting and analyzing data, making it difficult to compare study results. This issue can be particularly problematic when attempting to reproduce study outcomes, a crucial step in the drug development process. Moreover, regulatory agencies may impose different clinical trial and data collection requirements, further complicating the collaboration process.
+
 
 ## Relevance
 Most research done by PhDs is buried in research papers, and the focus is solely on publishing rather than applicability of research. Academic institutions have minimum publication requirements for tenured positions. After research is published, academics do not make an effort to ensure the industry is aware of it or that others can use their research.
 
 Furthermore, many researchers prioritize using checklists for methods applicability, data availability, and result derivability, rather than focusing on novelty of topics or ideas. Newer areas have relatively less literature or data available, making it challenging to apply existing models or methods, which discourages working on the latest trends.
 
-## Research Collaboration
-Traditionally, academic and scientific research has been conducted in isolation, with little effort made to build upon the work of others or to facilitate collaboration. However, with the advent of modern coordination mechanisms, such as those used in open-source software projects, it is now possible for researchers to work together in a more transparent and efficient manner. These projects allow for open collaboration and provide easy access to project resources, enabling new team members to quickly get up to speed with the project.
-
 ## Intellectual Property Ownership
-Intellectual property (IP) refers to legal rights granted to inventors and creators, such as patents, copyrights, and trademarks. However, the rules for IP ownership and transfer can vary significantly between research institutions. In many cases, the IP produced by researchers is not easily transferable or awarded in a flexible manner that reflects the contributions of team members.
+One of the significant challenges facing biopharmaceutical researchers is protecting the intellectual property associated with their products. The patent process for biopharmaceuticals is complicated, time-consuming, and expensive, and infringement of existing patents can result in costly legal battles, delaying the introduction of new products to market. Researchers must navigate the complex landscape of existing IP rights while ensuring that their innovations do not infringe on other patents.
 
 ## Reward Distribution
 Despite the potential market value of the IP produced, there is often a lack of reward structures in place for researchers. This can lead to a shift in focus from the research itself to obtaining a tenured position. Additionally, there is often no clear or flexible way to distribute rewards based on individual contributions to the project. 
@@ -69,18 +85,4 @@ Sometimes, it's the culture that brings in a shift, more than the technology its
 - https://www.tandfonline.com/doi/full/10.1080/23299460.2019.1608615
 - https://milkeninstitute.org/sites/default/files/reports-pdf/Concept2Commercialization-MR19-WEB_2.pdf
 - https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-015-0064-2 
- **Issues with TTO**        
-The Relationship between Faculty Researchers and Technology Transfer Offices (TTOs)
-
-Faculty researchers sometimes choose not to disclose their research results to their TTOs due to conflicts with their tenure and promotion policies, publication delays, and hindering their professional growth. Additionally, faculty researchers may resent TTO staff who engage in unethical behavior, such as favoritism in patenting and marketing faculty inventions. TTOs may also be resented when their service expectations are not met, or when no or inadequate IP training or outreach is provided.
-
-Faculty researchers who consider themselves ivory tower purists may have disdain for TTO staff and commercialization in general. They may not want TTO deals with industry partners to dictate their research direction and decisions about what research the university will support. Purists believe that industry scientists are secretive and driven to patent and commercialize, and that university researchers should be more transparent. However, it has been demonstrated that they both share or do not share for various reasons, and academics' perception of industrial science is biased.
-
-Public disputes between faculty and their universities have arisen, causing an important ethical question of whether it is ethical to retaliate against whistleblowers. Whistleblowing is the act of exposing wrongdoing by reporting it internally to an organization's management or externally. External disclosures are often deemed disloyal, and internal disclosures are favored because they give an organization an opportunity to take corrective action before being exposed externally. Yet, when an organization retaliates against a whistleblower, it is retaliating against itself.
-
-Organizations need clear ethical behavior standards, supported by their leadership, to prevent, detect, and correct wrongdoing. Moreover, faculty researchers have clashed with TTO staff, who help them found a spin-off business and hire a CEO, but they disagree with the CEO, leading to their removal from the company's board.
-
-The examples illustrate the complex relationship between faculty researchers and TTOs, and the need for a clear understanding of the expectations, ethical standards, and guidelines to prevent conflicts.
-
-he text discusses conflicts of interest within universities, particularly in relation to technology transfer offices (TTOs) and their staff. It highlights how revenue generation, and the pressure to land "blockbuster" inventions, may lead TTOs to favor certain faculty members and their inventions, causing inequitable treatment for others. The text argues that this is unethical and conflicts with universities' missions to support all research faculty. It also discusses how TTOs may be required to make exceptions to university policies to foster large deals with industry partners, which can violate transparency policies. The text recommends greater accountability and transparency for TTOs and their staff, including the demonstration of equitable distribution of services and adherence to standing rules and policies. Finally, the text discusses how the pressure to publish, earn tenure, and commercialize products can tempt faculty researchers to unethically violate university policies, particularly regarding publication delays during the evaluation process for patentability and marketability. The Bayh Dole Act of 1980, which allows universities to license and sell technology created with federal funds, is also discussed as a factor in technology transfer at universities. 
  

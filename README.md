@@ -4,11 +4,10 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  ---
 
  ## Decentralized Science
- This is a course template
-
+ DeSci provides infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge
  
  ## Description
- ## Coming Soon
+ > Decentralized science (DeSci) is a movement that aims to build public infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge fairly and equitably using the Web3 stack – Ethereum.org
  
  ## Chapters
  
