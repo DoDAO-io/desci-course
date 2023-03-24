@@ -61,6 +61,8 @@ One of the key services offered by BioDAOs is the tokenization of intellectual p
 DAOs go through different stages, from an idea to a fully grown organization. The growth sequence for a BioDAO typically includes specific building blocks. Molecule provides support at each of these stages.
  
  **References**        
-- https://www.molecule.to/ - https://docs.molecule.to/documentation/introduction/readme - https://www.youtube.com/@Molecule_dao/videos
+- https://www.molecule.to/ 
+- https://docs.molecule.to/documentation/introduction/readme 
+- https://www.youtube.com/@Molecule_dao/videos
  
  

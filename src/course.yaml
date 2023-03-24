@@ -7,23 +7,28 @@ highlights:
 publishStatus: Draft
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png
-details: >-
-    ## Coming Soon
+details: '## Coming Soon'
 duration: 30 mins - 1 hour
 topics:
   - key: introduction
     title: Introduction
-    details: >+
-      DeSci is a movement creating public infrastructure for scientific knowledge through the Web3 stack. 
-      It aims to incentivize scientists to share and receive credit for their work, while promoting transparency and accessibility to all.
-      This decentralized approach allows for diverse funding sources, accessible data and methods, and incentives for reproducibility.
-      It creates a more resistant research model to central authorities and promotes unconventional ideas.
+    details: >
+      DeSci is a movement creating public infrastructure for scientific
+      knowledge through the Web3 stack.  It aims to incentivize scientists to
+      share and receive credit for their work, while promoting transparency and
+      accessibility to all. This decentralized approach allows for diverse
+      funding sources, accessible data and methods, and incentives for
+      reproducibility. It creates a more resistant research model to central
+      authorities and promotes unconventional ideas.
+    explanations: introduction.yaml
   - key: molecule
     title: Molecule
     details: >
-      Molecule DAO is an ambitious project aimed at revolutionizing the drug development industry. 
-      With a vision to create an open marketplace that connects patients directly with researchers, 
-      Molecule DAO seeks to democratize access to funding for promising early-stage therapeutic research.
+      Molecule DAO is an ambitious project aimed at revolutionizing the drug
+      development industry.  With a vision to create an open marketplace that
+      connects patients directly with researchers,  Molecule DAO seeks to
+      democratize access to funding for promising early-stage therapeutic
+      research.
     explanations: molecule.yaml
     questions: molecule.yaml
   - key: labdao
@@ -32,6 +37,25 @@ topics:
       Needs to be added
     explanations: labdao.yaml
     questions: labdao.yaml
+  - key: vitadao
+    title: VitaDAO
+    details: >+
+      VitaDAO is a cooperative organization for community-governed and
+      decentralized drug development with the mission to accelerate research and
+      development in the longevity space. They aim to democratize early-stage
+      longevity research, which is lacking critical funding, by using a
+      combination of novel governance frameworks and decentralized autonomous
+      organizations (DAOs), non-fungible tokens (NFTs), and financial
+      engineering tools. VitaDAO's ownership and governance are governed by VITA
+      tokens, which can be obtained by contributing work, funds, or other
+      resources. VitaDAO aims to acquire and finance new therapeutics and
+      research data in the longevity space, and directly hold IP rights in novel
+      early-stage therapeutics. They plan to create entirely new open IP
+      business models that promote open science and new data marketplaces.
+
+
+
+    explanations: vitadao.yaml
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'

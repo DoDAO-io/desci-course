@@ -1,0 +1,86 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## Introduction
+ 
+ **What is DeSci?**        
+> Decentralized science (DeSci) is a movement that aims to build public infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge fairly and equitably using the Web3 stack – Ethereum.org 
+
+There is a lot to unpack in this definition, with each term such as "funding, creating, reviewing, crediting, storing, and disseminating" requiring detailed explanation. Undoubtedly, science has played a major role in making the world a better place for humans than ever before. Private industry readily supports areas of innovation that promise short-term financial gains, while research in fields that lack direct monetary benefits, such as space exploration, bio research, and pollution control, rely heavily on government funding. Unfortunately, the outcomes of such research often prioritize theoretical publications over real-world impact.
+
+DeSci is an experimental field that takes cues from open-source software development, as well as DeFi and Decentralized Autonomous Organization concepts, to streamline and optimize the entire research process. By employing mechanisms such as public open grants, incentivized coordination, effort tracking, and reward distribution, DeSci aims to make research more efficient and effective.
+
+Although DeSci concepts can be applied in any sector, there has been a notable increase in the adoption of decentralized concepts and primitives within the field of biopharma. Therefore, this course will specifically concentrate on the implementation of DeSci in the biopharma science domain.
+ 
+ **Traditional Science **        
+While the traditional approach to science has led to numerous advancements, it has not kept pace with technological advancements, resulting in a deteriorating process. Similar to government bodies, science institutions also face several issues, primarily due to centralization of decision-making. Additionally, the focus has shifted from making an impact to publishing research papers. Some of the most significant problems currently faced by the traditional science industry are discussed below.
+
+## Funding
+Funding problems plague both the public and private sectors in science. Science startups face more intense funding challenges than other startups as their product turnaround time is longer, and initial setup costs are higher. Private VCs invest based solely on risk/reward and not impact.
+
+In the public sector, the grant mechanisms used by government entities are outdated and favor field veterans. It is easier to obtain funding for newer initiatives, which means grantees focus on completing current projects and starting new ones rather than ensuring long-term usefulness of current projects. Grant distribution is also biased, with veterans giving grants to other veterans, making it challenging for new members to secure funding.
+
+## Relevance
+Most research done by PhDs is buried in research papers, and the focus is solely on publishing rather than applicability of research. Academic institutions have minimum publication requirements for tenured positions. After research is published, academics do not make an effort to ensure the industry is aware of it or that others can use their research.
+
+Furthermore, many researchers prioritize using checklists for methods applicability, data availability, and result derivability, rather than focusing on novelty of topics or ideas. Newer areas have relatively less literature or data available, making it challenging to apply existing models or methods, which discourages working on the latest trends.
+
+## Research Collaboration
+Traditionally, academic and scientific research has been conducted in isolation, with little effort made to build upon the work of others or to facilitate collaboration. However, with the advent of modern coordination mechanisms, such as those used in open-source software projects, it is now possible for researchers to work together in a more transparent and efficient manner. These projects allow for open collaboration and provide easy access to project resources, enabling new team members to quickly get up to speed with the project.
+
+## Intellectual Property Ownership
+Intellectual property (IP) refers to legal rights granted to inventors and creators, such as patents, copyrights, and trademarks. However, the rules for IP ownership and transfer can vary significantly between research institutions. In many cases, the IP produced by researchers is not easily transferable or awarded in a flexible manner that reflects the contributions of team members.
+
+## Reward Distribution
+Despite the potential market value of the IP produced, there is often a lack of reward structures in place for researchers. This can lead to a shift in focus from the research itself to obtaining a tenured position. Additionally, there is often no clear or flexible way to distribute rewards based on individual contributions to the project. 
+ **DeSci Benefits**        
+DeFi has the potential to address many of the problems we discussed earlier, and DeSci, while still experimental, has garnered a lot of attention. There are real-world projects targeting these areas and making significant progress. Our focus is to learn from the new primitives and projects in order to determine what we can borrow and apply in our own project or situation. Let's explore the benefits provided by DeSci.
+
+## Assistance with Funding
+As we previously mentioned, it is easy to raise funds in a transparent manner using DeFi primitives like Bonding Curves and Liquidity Bootstrapping Pools. In DeSci, even more innovative formats are being used for funding. Communities or Decentralized Autonomous Organizations are formed around causes such as Longevity, Psychedelics, and Hair Loss. These communities have their own tokens that help create a treasury, and members vote to select the projects or researchers to fund. Even traditional pharma players are participating in these models. For example, VitaDAO, a DAO focused on raising funds for research on extending human life, closed a $4.1 million funding round with Pfizer Ventures and several others.
+
+## Flexible Intellectual Property Ownership
+DeSci uses Ethereum's ERC-20 tokens and ERC-721 NFT standards to represent intellectual property on the blockchain. Molecule has developed an "IP-NFT" as an Intellectual Property primitive. These IP-NFTs connect IP and research data rights to NFTs using legal contracts attached to smart contracts. They represent a new paradigm in legal contracts for scientific research and are stored on Ethereum. IP-NFTs can be transferred, used in DeFi, fractionalized, and enable crowd control of ethics in commercialization. They also bring unprecedented liquidity to IP markets.
+
+## Reputation instead of Citation
+DeFi and blockchain are currently experimenting with many reputation primitives like badges, soulbound tokens, and non-transferrable tokens, which can be used to encourage a multitude of tasks that are needed for the continuity of research in a field, rather than just focusing on the number of research papers or citations. Since this reputation lives on the blockchain, anyone can see how the reputation was built, using what parameters, and from which projects.
+
+## Reproducibility
+In traditional science, there is not much incentive to verify the process, mathematical models, data, and results of the research. There are some check and balancers, but no one invests time to reverify the details. In fields like Bio/Pharma, it is essential that the results are easily reproducible. In 2022, the world learned about the manipulated study on Alzheimer's. The study contained forged images of the results, and no one verified the research for more than a decade. Other researchers based their research on those results. The National Institution of Health paid hundreds of millions of dollars to projects that were either directly or indirectly based on that manipulated research. By adding new incentives and reputation, much focus can be made on the reproducibility and verification of the research.
+
+## Communication and Collaboration
+Sometimes, it's the culture that brings in a shift, more than the technology itself. There are hundreds of tools available that help in collaboration based on a cause or a topic. These tools have been extensively used in Software Development teams or Blockchain teams. With DeSci, we see communities bringing in the same culture of openness and collaboration, enabling researchers, scientists, academicians, students, and industry experts to collaborate towards common causes.
+
+
+
+
+
+ 
+ **References**        
+- https://ethereum.org/en/desci
+- https://ieeexplore.ieee.org/document/9906878
+- https://www.thebrackengroup.com/blog/biotech-daos-desci-and-life-science-web3-concepts
+- https://www.desci.global/
+- https://medium.com/paradigm-research/decentralized-science-desci-web3-mediated-future-of-science-2547f9a88c40
+- https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease
+- https://www.cryptoaltruism.org/blog/5-desci-projects-disrupting-scientific-research-and-development
+- https://www.tandfonline.com/doi/full/10.1080/23299460.2019.1608615
+- https://milkeninstitute.org/sites/default/files/reports-pdf/Concept2Commercialization-MR19-WEB_2.pdf
+- https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-015-0064-2 
+ **Issues with TTO**        
+The Relationship between Faculty Researchers and Technology Transfer Offices (TTOs)
+
+Faculty researchers sometimes choose not to disclose their research results to their TTOs due to conflicts with their tenure and promotion policies, publication delays, and hindering their professional growth. Additionally, faculty researchers may resent TTO staff who engage in unethical behavior, such as favoritism in patenting and marketing faculty inventions. TTOs may also be resented when their service expectations are not met, or when no or inadequate IP training or outreach is provided.
+
+Faculty researchers who consider themselves ivory tower purists may have disdain for TTO staff and commercialization in general. They may not want TTO deals with industry partners to dictate their research direction and decisions about what research the university will support. Purists believe that industry scientists are secretive and driven to patent and commercialize, and that university researchers should be more transparent. However, it has been demonstrated that they both share or do not share for various reasons, and academics' perception of industrial science is biased.
+
+Public disputes between faculty and their universities have arisen, causing an important ethical question of whether it is ethical to retaliate against whistleblowers. Whistleblowing is the act of exposing wrongdoing by reporting it internally to an organization's management or externally. External disclosures are often deemed disloyal, and internal disclosures are favored because they give an organization an opportunity to take corrective action before being exposed externally. Yet, when an organization retaliates against a whistleblower, it is retaliating against itself.
+
+Organizations need clear ethical behavior standards, supported by their leadership, to prevent, detect, and correct wrongdoing. Moreover, faculty researchers have clashed with TTO staff, who help them found a spin-off business and hire a CEO, but they disagree with the CEO, leading to their removal from the company's board.
+
+The examples illustrate the complex relationship between faculty researchers and TTOs, and the need for a clear understanding of the expectations, ethical standards, and guidelines to prevent conflicts.
+
+he text discusses conflicts of interest within universities, particularly in relation to technology transfer offices (TTOs) and their staff. It highlights how revenue generation, and the pressure to land "blockbuster" inventions, may lead TTOs to favor certain faculty members and their inventions, causing inequitable treatment for others. The text argues that this is unethical and conflicts with universities' missions to support all research faculty. It also discusses how TTOs may be required to make exceptions to university policies to foster large deals with industry partners, which can violate transparency policies. The text recommends greater accountability and transparency for TTOs and their staff, including the demonstration of equitable distribution of services and adherence to standing rules and policies. Finally, the text discusses how the pressure to publish, earn tenure, and commercialize products can tempt faculty researchers to unethically violate university policies, particularly regarding publication delays during the evaluation process for patentability and marketability. The Bayh Dole Act of 1980, which allows universities to license and sell technology created with federal funds, is also discussed as a factor in technology transfer at universities. 
+ 
