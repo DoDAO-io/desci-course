@@ -5,7 +5,7 @@ summary: >-
   storing, and disseminating scientific knowledge
 highlights:
   - Introduction
-publishStatus: Draft
+publishStatus: Live
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png
 details: >-
@@ -39,9 +39,12 @@ topics:
   - key: labdao
     title: LabDAO
     details: >
-      LabDAO is a new type of research organization aimed at advancing computational life sciences. 
-      It offers independent researchers and university affiliates with the resources and support necessary to secure funding, connect with collaborators, and conduct research.
-      LabDAO endeavors to construct an internet-era ARPA that is owned by the community.
+      LabDAO is a new type of research organization aimed at advancing
+      computational life sciences.  It offers independent researchers and
+      university affiliates with the resources and support necessary to secure
+      funding, connect with collaborators, and conduct research. LabDAO
+      endeavors to construct an internet-era ARPA that is owned by the
+      community.
     explanations: labdao.yaml
     questions: labdao.yaml
   - key: vitadao
